@@ -1,0 +1,2 @@
+string_list=["Bob","Alice","Eve"]
+for index,string in string_list:
