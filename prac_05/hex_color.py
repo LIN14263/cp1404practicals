@@ -12,3 +12,4 @@ while color != "":
         print("Invalid input")
     color = input("Choose a color:").lower()
 print("Finished")
+
