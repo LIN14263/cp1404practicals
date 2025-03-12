@@ -12,3 +12,4 @@ print(f"{guitar_1.name} get_age() - Expected {expected_age_1}. Got {guitar_1.get
 print(f"{guitar_2.name} get_age() - Expected {expected_age_2}. Got {guitar_2.get_age()}")
 print(f"{guitar_1.name} is_vintage() - Expected {expected_vintage_1}. Got {guitar_1.is_vintage()}")
 print(f"{guitar_2.name} is_vintage() - Expected {expected_vintage_2}. Got {guitar_2.is_vintage()}")
+

@@ -17,3 +17,4 @@ print("\nThese are my guitars:")
 for i, new_guitar in enumerate(guitars, 1):
     vintage_string = "(vintage)" if new_guitar.is_vintage() else ""
     print(f"Guitar {i}: {new_guitar.name:>20} ({new_guitar.year}), worth ${new_guitar.cost:10,.2f}{vintage_string}")
+

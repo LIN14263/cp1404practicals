@@ -11,3 +11,4 @@ languages = [ProgrammingLanguage("Python", "Dynamic", True, 1991),
 dynamic_languages = [language for language in languages if language.is_dynamic()]
 for language in dynamic_languages:
     print(language)
+
