@@ -13,4 +13,3 @@ while email != "":
     email_list = email.split("@")
 for name, e_address in dict_names.items():
     print(f"{name} ({e_address})")
-
